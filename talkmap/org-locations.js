@@ -1,22 +1,27 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Poster presentation at INAM 2024<br />University of Galway; Galway, Ireland",
+    53.28094236601035, 
+    -9.062104972370362
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Contributed talk at UKExoM 2025<br />University of Leeds; Leeds, UK",
+    53.80815166051465, 
+    -1.5533124453514846
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Contributed talk at EAS 2025<br />University College Cork; Cork, Ireland",
+    51.89359845717299, 
+    -8.491963231374378
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Contributed talk at DDE 2025<br />University of Coimbra; Coimbra, Portugal",
+    40.20777047073515, 
+    -8.426071746117476
+  ],
+  [
+    "Contributed talk at UK&Ire Disks Meeting 2025<br />University of Hertfordshire; London, UK",
+    51.762171029444396, 
+    -0.24816602532977847
   ]
 ];
