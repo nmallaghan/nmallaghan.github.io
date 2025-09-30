@@ -7,3 +7,5 @@ venue: "University of Galway"
 date: 29-08-2024
 location: "Galway, Ireland"
 ---
+
+Contributed talk giving at the Irish National Astronomical Meeting 2024.
