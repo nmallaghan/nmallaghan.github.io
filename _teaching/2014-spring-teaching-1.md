@@ -3,7 +3,7 @@ title: "GCSE & A-Level Tutor"
 collection: teaching
 type: "Secondary school tutoring"
 permalink: /teaching/2014-spring-teaching-1
-venue: "N/A"
+venue: "Belfast, United Kingdom"
 date: 2019-present
 location: "Belfast, United Kingdom"
 ---
