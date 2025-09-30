@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "GCSE & A-Level Tutor"
 collection: teaching
-type: "Undergraduate course"
+type: "Secondary school tutoring"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+date: 2019-present
+location: "Belfast, United Kingdom"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Tutoring GCSE and A-level students in Physics, Mathematics and Further Mathematics, including both one-on-one and group classes, as well as creating questions and resources for students to use in their studies.
 
 Heading 1
 ======
