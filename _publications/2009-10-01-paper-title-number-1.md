@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "An Enigmatic Short-Period Circumsecondary Disk Candidate in Orion"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper focuses on an enigmatic transiting object in Orion which shows a deep and asymmetric light curve. I investigated a number of hypotheses to aid in the characterisation of it, including modelling, MCMC fitting and analysing the results. I led the simulations, analysis, and writing up of this work. This paper is currently in prep.'
+date: 2025-12-01
+venue: 'N/A'
+slidesurl: ''
+paperurl: ''
+bibtexurl: ''
+citation: ''
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
