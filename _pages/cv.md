@@ -1,11 +1,17 @@
 ---
-title: "Curriculum Vitae"
+title: "CV"
 permalink: /cv/
+author_profile: false
+redirect_from:
+  - /resume
 ---
 
-<object data="{{ '/files/Cv-2025-Long Form.pdf' | relative_url }}" type="application/pdf" width="100%" height="800px">
-  <p>Your browser doesn’t support PDFs.
-     <a href="{{ '/files/Cv-2025-Long Form.pdf' | relative_url }}">Download the PDF</a> instead.</p>
-</object>
+{% include base_path %}
 
+{% include cv-template.html %}
+
+<div class="cv-download-links">
+  <a href="{{ base_path }}/files/Cv-2025-Long Form.pdf" class="btn btn--primary">Download CV as PDF</a>
+  <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
+</div>
 
