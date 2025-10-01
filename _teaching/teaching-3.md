@@ -9,4 +9,4 @@ period: "2025–present"
 location: "Belfast, United Kingdom"
 ---
 
-Marking weekly mathematics assignments for first year undergraduates, leading tutorial classes, and creating worked examples.
+Marking weekly mathematics assignments for first year undergraduates, leading tutorial classes, and creating worked examples. (2025-present)
