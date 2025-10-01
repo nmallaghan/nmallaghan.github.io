@@ -9,12 +9,3 @@ location: "Belfast, United Kingdom"
 ---
 
 Tutoring GCSE and A-level students in Physics, Mathematics and Further Mathematics, including both one-on-one and group classes, as well as creating questions and resources for students to use in their studies.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
