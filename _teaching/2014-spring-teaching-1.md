@@ -4,7 +4,8 @@ collection: teaching
 type: "Secondary school tutoring"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Belfast, United Kingdom"
-date: 2019-present
+date: 2019-09-01
+period: "2019–present"
 location: "Belfast, United Kingdom"
 ---
 
