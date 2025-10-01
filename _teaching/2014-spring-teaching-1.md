@@ -9,4 +9,4 @@ period: "2019–present"
 location: "Belfast, United Kingdom"
 ---
 
-Tutoring GCSE and A-level students in Physics, Mathematics and Further Mathematics, including both one-on-one and group classes, as well as creating questions and resources for students to use in their studies.
+Tutoring GCSE and A-level students in Physics, Mathematics and Further Mathematics, including both one-on-one and group classes, as well as creating questions and resources for students to use in their studies. (2019-present)
