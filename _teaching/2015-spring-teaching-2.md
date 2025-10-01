@@ -9,4 +9,4 @@ period: "2023–2025"
 location: "Belfast, United Kingdom"
 ---
 
-Supervising for second year undergraduate lab experiments, including teaching students the theoretical background to experiments, instructing students on how to complete experiments over a range of areas in physics, and fixing experimental equipment for students.
+Supervising for second year undergraduate lab experiments, including teaching students the theoretical background to experiments, instructing students on how to complete experiments over a range of areas in physics, and fixing experimental equipment for students. (2023-2025)
